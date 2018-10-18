@@ -7,7 +7,7 @@
   <version>1.0</version>
   <packaging>maven-archetype</packaging>
 
-  <name>modulex-archetype</name>
+  <name>module-archetype</name>
 
   <build>
     <extensions>
